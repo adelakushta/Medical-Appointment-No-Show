@@ -6,20 +6,20 @@ This repository contains a comprehensive comparison of machine learning classifi
 
 ## Repository Structure
 
-Decision_Trees/
-├── Decision_Trees.ipynb
-├── decision_tree_tuning_results.csv
+- **Decision_Trees/**
+  - `Decision_Trees.ipynb`
+  - `decision_tree_tuning_results.csv`
 
-Logistic_Regression/
-├── Logistic_Regression.ipynb
-├── logistic_regression_results.csv
-├── logistic_regression_results_with_SMOTE.csv
+- **Logistic_Regression/**
+  - `Logistic_Regression.ipynb`
+  - `logistic_regression_results.csv`
+  - `logistic_regression_results_with_SMOTE.csv`
 
-NODE/
-├── NODE.ipynb
+- **NODE/**
+  - `NODE.ipynb`
 
-LICENSE
-README.md
+- `LICENSE`
+- `README.md`
 
 
 ## Dataset Information 
