@@ -61,12 +61,12 @@ Model Performance Summary
 
 | Algorithm | Scenario | Accuracy | Precision | Recall | F1-Score |
 |-----------|----------|----------|-----------|--------|----------|
-| Logistic Regression | Without SMOTE| 79.8% | 54.3% | ~0.00 | ~1% |
-| Logistic Regression | With SMOTE | 62.2% | 29% | 60% | 39% |
-| Decision Trees | Without SMOTE | 80.0% | 52% | 2.0% | 3.9% | 
-| Decision Trees | With SMOTE + Threshold | 56.0% | 30% | 84% |44% |
-| NODE | Without SMOTE | 80.0% | 58% | 50% | 45% |
-| NODE | With SMOTE | 70.0% | 56% | 57% | 57% |
+| Logistic Regression | Without SMOTE| 79.8% | 0.543 | ~0.00 | ~0.01 |
+| Logistic Regression | With SMOTE | 62.2% | 0.29 | 0.60 | 0.39 |
+| Decision Trees | Without SMOTE | 80.0% | 0.52 | 0.02 | 0.039 | 
+| Decision Trees | With SMOTE + Threshold | 56.0% | 0.30 | 0.84 | 0.44 |
+| NODE | Without SMOTE | 80.0% | 0.58 | 0.50 | 0.45 |
+| NODE | With SMOTE | 70.0% | 0.56 | 0.57 | 0.57 |
 
 ## Visualizations
 
